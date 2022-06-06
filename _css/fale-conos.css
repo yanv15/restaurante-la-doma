@@ -1,0 +1,40 @@
+footer#rodape{
+    position: relative;
+    margin: none;
+    top: 1px;
+}
+
+img#mulher2{
+
+    border: solid 10px;
+    position: absolute;
+    margin: none;
+    width: 300px;
+    right: 500px;
+   
+   
+    
+
+}
+
+div{
+    display: block;
+    position: absolute;
+    padding: 1px 1px;
+    top: 150px;
+    right: 100px;
+    border: solid ;
+    width: 450px;
+    height: 240px;
+    
+   
+    
+    
+    
+    
+    
+    
+    
+}
+
+
